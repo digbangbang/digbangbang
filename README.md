@@ -1,6 +1,6 @@
 ### Hey 👋🏽, I'm ZhiWei Li!
 
-Hi, I'm ZhiWei Li, you can call me Aragon as well. I'm studying in [School of Data Science](https://sds.fudan.edu.cn/) @ [Fudan University](https://www.fudan.edu.cn/) for my M.Sc. I've got my B.Sc. from [Shanghai University of Finance and Economics](https://www.sufe.edu.cn/) ([Statistics](https://ssm.sufe.edu.cn/)) @ Summer 2023. Currently, I'm working on Diffusion Model's Acceleration. Beside's programming, I like delicious food 🥗🥩🌮🍣 and doing sports 🏃⛹️‍♂️🏋🏼‍♂️.
+Hi, I'm ZhiWei Li, you can call me Aragon as well. I'm studying in [School of Data Science](https://sds.fudan.edu.cn/) @ [Fudan University](https://www.fudan.edu.cn/) for my M.Sc. I've got my B.Sc. from [Shanghai University of Finance and Economics](https://www.sufe.edu.cn/) ([Statistics](https://ssm.sufe.edu.cn/)) @ Summer 2023. Currently, I'm working on Diffusion Model's Acceleration and Concept Erasing. Beside's programming, I like delicious food 🥗🥩🌮🍣 and doing sports 🏃⛹️‍♂️🏋🏼‍♂️.
 
 <img align="right" alt="GIF" src="cup.gif" width="180" height="180" />
 
