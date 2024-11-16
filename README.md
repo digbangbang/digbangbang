@@ -7,7 +7,8 @@ Hi, I'm ZhiWei Li, you can call me Aragon as well. I'm studying in [School of Da
 **Talking about Personal Stuffs:**
 
 - 🌱 I’m currently working on Deep Learning, specially in the Model Compression
-- 👀 I’m interested in research areas about machine learning, model quantization
+- 👀 I’m interested in research areas about machine learning, model quantization, generative model
+- 🎱 I like fitness, watching movies, and food 
 - 💬 Ask me about anything, I am happy to help :)
 - 📫 How to reach me: 23210980055@m.fudan.edu.cn
 
