@@ -13,8 +13,10 @@ Hi, I'm ZhiWei Li, you can call me Aragon as well. I'm studying in [School of Da
 - 📫 How to reach me: zwli23@m.fudan.edu.cn
 
 
+<!--
 ## Publication
 
 **Low Precision Local Training is Enough for Federated Learning**  
 **Zhiwei Li**\*, Yiqiu Li\*, Binbin Lin, Zhongming Jin, Weizhong Zhang#.  
 *The 38th Annual Conference on Neural Information Processing Systems, 2024. (NeurIPS 2024)*
+-->
