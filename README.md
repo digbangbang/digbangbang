@@ -1,6 +1,6 @@
 ### Hey 👋🏽, I'm ZhiWei Li!
 
-Hi, I'm ZhiWei Li, you can call me Aragon as well. I'm studying in [School of Data Science](https://sds.fudan.edu.cn/) @ [Fudan University](https://www.fudan.edu.cn/) for my M.Sc, under my supervisors [Prof. Weizhong Zhang](https://weizhonz.github.io/index.html). I've got my B.Sc. from [Shanghai University of Finance and Economics](https://www.sufe.edu.cn/) ([Statistics](https://ssm.sufe.edu.cn/)) @ Summer 2023. For more detail, you can find my CV in 
+Hi, I'm ZhiWei Li, you can call me Aragon as well. I'm studying in [School of Data Science](https://sds.fudan.edu.cn/) @ [Fudan University](https://www.fudan.edu.cn/) for my M.Sc, under my supervisors [Prof. Weizhong Zhang](https://weizhonz.github.io/index.html). I've got my B.Sc. from [Shanghai University of Finance and Economics](https://www.sufe.edu.cn/) ([Statistics](https://ssm.sufe.edu.cn/)) @ Summer 2023. 
 
 <img align="right" alt="GIF" src="cup.gif" width="180" height="180" />
 
@@ -9,8 +9,9 @@ Hi, I'm ZhiWei Li, you can call me Aragon as well. I'm studying in [School of Da
 - 🌱 I’m currently working on Deep Learning, specially in the Model Compression
 - 👀 I’m interested in research areas about machine learning, model quantization, generative model
 - 🎱 I like fitness, watching movies, and food 
-- 💬 Ask me about anything, I am happy to help :)
 - 📫 How to reach me: zwli23@m.fudan.edu.cn
+- 🦆 You can find: [Zhiwei Li's CV](https://digbangbang.github.io/lizhiwei/cv_en.pdf)
+
 
 
 <!--
