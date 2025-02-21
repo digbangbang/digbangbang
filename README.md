@@ -10,7 +10,7 @@ Hi, I'm ZhiWei Li, you can call me Aragon as well. I'm studying in [School of Da
 - 👀 I’m interested in research areas about machine learning, model quantization, generative model
 - 🎱 I like fitness, watching movies, and food 
 - 📫 How to reach me: zwli23@m.fudan.edu.cn
-- 🦆 You can find: [Zhiwei Li's CV](https://digbangbang.github.io/lizhiwei/cv_en.pdf)
+- 🐼 You can find: [Zhiwei Li's CV](https://digbangbang.github.io/lizhiwei/cv_en.pdf)
 
 
 
